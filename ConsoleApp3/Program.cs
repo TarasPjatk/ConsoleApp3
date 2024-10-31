@@ -83,6 +83,7 @@ namespace ProjektNri_Nazwisko_NrAlbumu
 
                 Console.Write("\n\t\tNaciśnij dozwolony klawisz (A, B, C, D, X): ");
 
+                //First test commit
                 wybranaFunkcjonalnosc = Console.ReadKey();
                 Console.WriteLine();
 
