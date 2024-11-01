@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "/Users/user/Desktop/firstProject/ConsoleApp3/ConsoleApp3/ConsoleApp3.csproj": {}
+    "/Users/danilshkurko/RiderProjects/ConsoleApp3/ConsoleApp3/ConsoleApp3.csproj": {}
   },
   "projects": {
-    "/Users/user/Desktop/firstProject/ConsoleApp3/ConsoleApp3/ConsoleApp3.csproj": {
+    "/Users/danilshkurko/RiderProjects/ConsoleApp3/ConsoleApp3/ConsoleApp3.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/user/Desktop/firstProject/ConsoleApp3/ConsoleApp3/ConsoleApp3.csproj",
+        "projectUniqueName": "/Users/danilshkurko/RiderProjects/ConsoleApp3/ConsoleApp3/ConsoleApp3.csproj",
         "projectName": "ConsoleApp3",
-        "projectPath": "/Users/user/Desktop/firstProject/ConsoleApp3/ConsoleApp3/ConsoleApp3.csproj",
-        "packagesPath": "/Users/user/.nuget/packages/",
-        "outputPath": "/Users/user/Desktop/firstProject/ConsoleApp3/ConsoleApp3/obj/",
+        "projectPath": "/Users/danilshkurko/RiderProjects/ConsoleApp3/ConsoleApp3/ConsoleApp3.csproj",
+        "packagesPath": "/Users/danilshkurko/.nuget/packages/",
+        "outputPath": "/Users/danilshkurko/RiderProjects/ConsoleApp3/ConsoleApp3/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/user/.nuget/NuGet/NuGet.Config"
+          "/Users/danilshkurko/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
@@ -58,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.403/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/Users/danilshkurko/.dotnet/sdk/8.0.401/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
